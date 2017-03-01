@@ -1,0 +1,21 @@
+{
+  "name": "gulps",
+  "version": "1.0.0",
+  "description": "Gulp project including browsersync ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo\\ \"error: no test specified \\\" && exit 1\""
+  },
+  "author": "Alberto Velez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2"
+  },
+  "dependencies": {
+    "gulp-cssnano": "^2.1.2"
+  }
+}
